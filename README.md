@@ -9,8 +9,18 @@ in COLING 2024
 
 ## Dataset Introduction
 
-Waiting>...
-files are being uploaded, it will take a while.
+raw data:
+all_user_data.json
+comment_data.json
+follow_data.json
+origin_weibo_data.json
+retweet_data.json
+retweet_weibo_data.json
+
+train/dev/test:   #while true is selected.
+user_data_mask.json
+weibo_data_mask.json
+
 
 ## Citation
 If you find this dataset useful in your research, please consider cite:
