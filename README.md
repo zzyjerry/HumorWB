@@ -8,8 +8,9 @@ in Social Media with a New Chinese Humor Corpus - HumorWB*
 in COLING 2024
 
 ## Dataset Introduction
-
+```
 raw data:
+
 all_user_data.json
 comment_data.json
 follow_data.json
@@ -18,8 +19,10 @@ retweet_data.json
 retweet_weibo_data.json
 
 train/dev/test:   #while true is selected.
-user_data_mask.json
-weibo_data_mask.json
+
+weibo_data_mask.json  #humor
+user_data_mask.json   #humor sense
+```
 
 
 ## Citation
