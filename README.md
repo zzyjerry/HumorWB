@@ -14,9 +14,8 @@ raw data:
 all_user_data.json
 comment_data.json
 follow_data.json
-origin_weibo_data.json
-retweet_data.json
-retweet_weibo_data.json
+weibo_data.json
+
 
 train/dev/test:   #while true is selected.
 
